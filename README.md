@@ -3,4 +3,5 @@ Two beginner C-language projects from my first year of BCA: Guess the Word and H
 
 Hangman Execution-
 
-![Image](https://github.com/user-attachments/assets/62cd143c-39ef-4019-bf25-2ceee85d29b0)
+
+![Image](https://github.com/user-attachments/assets/adb720de-8a1a-423d-97e4-2aeafcfc3546)
